@@ -21,7 +21,7 @@ da melhor forma possível para aumentar produtividade e qualidade no desenvolvim
 - **Perfil:** Desenvolvedor avançado
 - **IDE principal:** Visual Studio Professional
 - **Terminal:** Git Bash (Windows nativo)
-- **Ferramentas do dia a dia:** GitHub, Google Drive, Slack/Teams
+- **Ferramentas do dia a dia:** GitHub, Google Drive
 
 ---
 
@@ -41,7 +41,6 @@ da melhor forma possível para aumentar produtividade e qualidade no desenvolvim
 - ✅ GitHub MCP — conta pessoal conectada no claude.ai
 - ✅ Web Search — ativo no claude.ai
 - ⏳ Google Drive MCP — a configurar
-- ⏳ Slack MCP — a configurar
 
 ### Cursos em andamento (Anthropic Academy)
 - [ ] Claude Code 101
@@ -93,7 +92,6 @@ claude
 ## Próximos Passos
 
 1. Conectar Google Drive MCP
-2. Conectar Slack MCP
 3. Completar o curso Claude Code 101
 4. Criar primeiro script usando a Claude API
 5. Experimentar criar um servidor MCP personalizado
